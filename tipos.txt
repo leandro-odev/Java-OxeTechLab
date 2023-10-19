@@ -1,0 +1,6 @@
+byte = inteiro com 1 byte
+short = inteiro com 2 bytes
+int = inteiro com 4 bytes
+long = inteiro com 8 bytes
+float = ponto flutuante com 4 bytes
+double = ponto flutuante com 8 bytes
