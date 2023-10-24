@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class repeticao {
+
+    public static void print_str(String variavel) {
+        System.out.println(variavel);
+        return;
+    }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int dia = input.nextInt();
